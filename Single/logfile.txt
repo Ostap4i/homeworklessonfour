@@ -1,0 +1,4 @@
+Application started.
+Some event occurred.
+Application started.
+Some event occurred.

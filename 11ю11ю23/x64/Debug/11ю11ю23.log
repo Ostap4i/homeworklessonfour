@@ -1,0 +1,3 @@
+﻿  11ю11ю23.cpp
+C:\Users\Admin\source\repos\11ю11ю23\11ю11ю23\11ю11ю23.cpp(72,31): error C2440: return: невозможно преобразовать "ConcreteProductB2 *" в "AbstractProductB *"
+C:\Users\Admin\source\repos\11ю11ю23\11ю11ю23\11ю11ю23.cpp(72,31): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
